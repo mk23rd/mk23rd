@@ -4,6 +4,6 @@ You can click the Preview link to take a look at your changes.
 --->
 - 👋 Hi, I’m @mk23rd
 - 📫 How to reach me michaelofthesith@gmail.com...
-- [![GitHub Streak](https://streak-stats.demolab.com?user=mk23rd&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+- [![GitHub Streak](https://streak-stats.demolab.com?user=mk23rd&theme=neon&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
 
