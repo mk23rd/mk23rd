@@ -5,9 +5,9 @@ You can click the Preview link to take a look at your changes.
 ### Hey, I'm Michael
 
 #### Where To reach me
--michaelofthesith@gmail.com
+michaelofthesith@gmail.com
 
-###W What I work With:
+### What I work With:
 <br>
 <br>
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
