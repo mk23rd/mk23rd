@@ -15,6 +15,8 @@ What I Work With:
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Phyton](https://img.shields.io/badge/-Python-black?logo=Python&style=social)
+![C++](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social)
+
 <br>
 [![GitHub Streak](https://streak-stats.demolab.com?user=mk23rd&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
