@@ -3,15 +3,9 @@ mk23rd/mk23rd is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 -Hi, I'm Michael :)
-
-
 <br>
 -Where To Reach Me: michaelofthesith@gmail.com
-
-
 <br>
-
-
 -What I Work With:
 <br>
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
