@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 #### Where To reach me:
 michaelofthesith@gmail.com
 ## My Linkedln 
-https://www.linkedin.com/in/michael-wagaye-3362272b0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+https://www.linkedin.com/in/michael-wagaye-3362272b0?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BytxZRvwTS7y%2Fw9e7H%2FtFpg%3D%3D
 ### What I work With:
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
