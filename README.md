@@ -2,7 +2,7 @@
 mk23rd/mk23rd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# 👋 Hi, I'm Michael Wagaye  
+#  Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Michael Wagaye  
 
 🎓 Final-year Computer Science & Technology student at HiLCoE School of Computer Science & Technology  
 💻 Currently working on my final year project [Check here! :)](https://github.com/mk23rd/Risk_Integrated_Crowdfuding_and_Investment_Platform) <br>
