@@ -1,7 +1,4 @@
-<!---
-mk23rd/mk23rd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
 # ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi, I'm Michael Wagaye  
 
 🎓  Recent Computer Science Graduate at HiLCoE School of Computer Science & Technology  
@@ -35,8 +32,7 @@ You can click the Preview link to take a look at your changes.
 ![AWS](https://img.shields.io/badge/AWS%20Solutions%20Architect-Certified-0072B1?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ---
 ## 📫 Let's Connect!
-- [LinkedIn](www.linkedin.com/in/michael-wagaye-3362272b0)  
-- [Email](michaelofthesith@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-wagaye-3362272b0)  [![Twitter/X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your_twitter_username)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michaelofthesith@gmail.com)  
 
 ---
 
@@ -44,5 +40,3 @@ You can click the Preview link to take a look at your changes.
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mk23rd&theme=dark&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
-
-
