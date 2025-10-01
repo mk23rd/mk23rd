@@ -41,7 +41,7 @@
 ## Listening To:
 <a href="https://luckyowl.pythonanywhere.com/link">
   <img
-    src="https://luckyowl.pythonanywhere.com/?spin=true&?theme=dark"
+    src="https://luckyowl.pythonanywhere.com/?theme=dark"
     alt="Current Spotify Song" 
      />
   
