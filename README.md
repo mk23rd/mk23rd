@@ -1,8 +1,6 @@
 
 # ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi, I'm Michael Wagaye  
 
-🎓  Recent Computer Science Graduate from HiLCoE School of Computer Science & Technology  
----
 
 ## 🌟 About Me
 - Passionate about software development and building impactful solutions  
