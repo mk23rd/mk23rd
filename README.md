@@ -2,9 +2,6 @@
 # ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hi, I'm Michael Wagaye  
 
 🎓  Recent Computer Science Graduate from HiLCoE School of Computer Science & Technology  
-💻 Currently working on my final year project [Check here! :)](https://github.com/mk23rd/Risk_Integrated_Crowdfuding_and_Investment_Platform) <br>
-🚀 Actively looking for any opportunity in tech  
-
 ---
 
 ## 🌟 About Me
