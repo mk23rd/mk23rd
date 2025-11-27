@@ -43,5 +43,5 @@
   </a>
  
  ## Streak Status
- [![GitHub Streak](https://streak-stats.demolab.com?user=mk23rd&theme=black-ice&hide_border=true&background=00000000)](https://git.io/streak-stats)
+ [![GitHub Streak](https://github-readme-streak-stats-inky-rho.vercel.app?user=mk23rd&theme=black-ice&hide_border=true&background=00000000)](https://git.io/streak-stats)
 
